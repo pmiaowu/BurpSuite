@@ -1,0 +1,9 @@
+﻿渗透神器burpsuite汉化版
+
+Linux Mac 下加载 burp-loader-keygen.jar
+
+java -javaagent:BurpSuiteCn.jar -Xbootclasspath/p:burp-loader-keygen.jar -Xmx1024m -jar burpsuite_pro_v1.x.x.jar
+
+Windwos 下加载 burp-loader-keygen.jar
+
+java -Dfile.encoding=utf-8 -javaagent:BurpSuiteCn.jar -Xbootclasspath/p:burp-loader-keygen.jar -Xmx1024m -jar burpsuite_pro_v1.x.x.jar
