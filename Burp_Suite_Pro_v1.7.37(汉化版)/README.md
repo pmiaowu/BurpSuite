@@ -10,6 +10,8 @@
 
 # Burp_Suite_Pro_v1.7.37(汉化版)-安装方法
 
+如果没有安装过java环境的请先打开安装: jre-8u201-windows-i586.exe
+
 ![](./readme/images/1.png)
 ![](./readme/images/2.png)
 ![](./readme/images/3.png)
